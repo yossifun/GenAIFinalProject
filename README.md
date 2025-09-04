@@ -474,8 +474,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- **Liam Nomad** **Id: 302841234** - [@liam.nomad34@gmail.com](yourmail@gmail.com) 
-- **Yossi Yacov** **Id: 032292799** - [@yossiy@gmail.com](yourmail@gmail.com)
+- **Liam Nomad** **Id: 302841234** - [@liam.nomad34@gmail.com](liam.nomad34@gmail.com) 
+- **Yossi Yacov** **Id: 032292799** - [@yossiy@gmail.com](yossiy@gmail.com)
 
 Project Link: [https://github.com/yossifun/GenAIFinalProject](https://github.com/yossifun/GenAIFinalProject)
 

@@ -3,7 +3,7 @@ import subprocess
 import sys
 import platform
 
-REPO_URL = "https://github.com/LiamNomad/GenAIFinalProject"
+REPO_URL = "https://github.com/yossifun/GenAIFinalProject"
 
 # Clone repo
 subprocess.check_call(["git", "clone", REPO_URL])

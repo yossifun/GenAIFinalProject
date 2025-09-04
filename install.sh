@@ -16,7 +16,7 @@ elif [ -d "$SCRIPT_DIR/GenAIFinalProject" ]; then
 else
     echo "GenAIFinalProject not found. Cloning..."
     cd "$SCRIPT_DIR"
-    git clone https://github.com/LiamNomad/GenAIFinalProject
+    git clone https://github.com/yossifun/GenAIFinalProject
     cd GenAIFinalProject
 fi
 

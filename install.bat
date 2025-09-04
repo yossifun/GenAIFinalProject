@@ -18,7 +18,7 @@ if /i "%CURRENT_DIR_NAME%"=="GenAIFinalProject" (
     ) else (
         echo GenAIFinalProject not found. Cloning...
         cd /d "%SCRIPT_DIR%"
-        git clone https://github.com/LiamNomad/GenAIFinalProject
+        git clone https://github.com/yossifun/GenAIFinalProject
         cd GenAIFinalProject
     )
 )
