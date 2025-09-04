@@ -110,7 +110,7 @@ These scripts will do the following:
 #### Option 2: Manual setup
 *  On Linux / macOS / Git Bash (Windows)
 	```bash
-	git clone https://github.com/LiamNomad/GenAIFinalProject.git
+	git clone https://github.com/yossifun/GenAIFinalProject.git
 	cd GenAIFinalProject
 	python3 -m venv .venv
 	source .venv/bin/activate
@@ -125,7 +125,7 @@ These scripts will do the following:
 
 *  On Windows Command Prompt
 	```cmd
-	git clone https://github.com/LiamNomad/GenAIFinalProject.git
+	git clone https://github.com/yossifun/GenAIFinalProject.git
 	cd GenAIFinalProject
 	python -m venv .venv
 	.venv\Scripts\activate
@@ -477,7 +477,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **Liam Nomad** **Id: 302841234** - [@liam.nomad34@gmail.com](yourmail@gmail.com) 
 - **Yossi Yacov** **Id: 032292799** - [@yossiy@gmail.com](yourmail@gmail.com)
 
-Project Link: [https://github.com/LiamNomad/GenAIFinalProject](https://github.com/LiamNomad/GenAIFinalProject)
+Project Link: [https://github.com/yossifun/GenAIFinalProject](https://github.com/yossifun/GenAIFinalProject)
 
 ---
 <br></br>
