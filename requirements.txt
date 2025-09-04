@@ -1,0 +1,82 @@
+# Core dependencies - Compatible versions for Python 3.11
+openai==1.102.0
+tiktoken==0.11.0
+pydantic==2.11.7
+python-dotenv==1.1.1
+
+# Vector database
+chromadb==1.0.15
+
+# Web interface
+streamlit==1.47.1
+
+# Database - MSSQL support
+sqlalchemy==2.0.42
+pyodbc==5.0.1
+pymssql==2.2.8
+
+# Database - MongoDB support
+pymongo==4.13.2
+
+# PDF processing
+PyPDF2==3.0.1
+pypdf==4.0.1
+
+# Data processing (used in tests and evaluation)
+pandas==2.2.0
+numpy==1.26.3
+
+# Machine learning and evaluation (used in fine_tuning.py and evaluate_model.py)
+scikit-learn==1.4.0
+
+# LangChain ecosystem (used in fine_tuning.py)
+langchain==0.3.27
+langchain-core==0.3.75
+langchain-openai==0.3.32
+langchain-text-splitters==0.3.10
+langsmith==0.4.21
+
+# Jupyter for evaluation notebooks (used in tests)
+jupyter==1.0.0
+ipykernel==6.29.2
+ipython==9.5.0
+ipywidgets==8.1.7
+jupyter-console==6.6.3
+jupyter-client==8.6.3
+jupyter-core==5.8.1
+jupyter-server==2.17.0
+jupyterlab==4.4.6
+jupyterlab-widgets==3.0.15
+notebook==7.4.5
+widgetsnbextension==4.0.14
+
+# Visualization (used in tests)
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# Web and HTTP Libraries (used in fine_tune_manager_api.py)
+requests==2.32.5
+
+# Testing and Debugging
+pytest==8.0.0
+pytest-asyncio==0.23.5
+
+# Utilities (used in evaluate_model.py)
+tqdm==4.67.1
+
+# Core Libraries (standard library dependencies)
+attrs==25.3.0
+certifi==2025.8.3
+charset-normalizer==3.4.3
+idna==3.10
+packaging==25.0
+pyparsing==3.2.3
+six==1.17.0
+zipp==3.23.0
+
+# Miscellaneous (used in various places)
+beautifulsoup4==4.13.5
+bleach==6.2.0
+markdown-it-py==4.0.0
+mistune==3.1.4
+pyyaml==6.0.2
