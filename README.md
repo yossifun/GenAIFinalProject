@@ -20,6 +20,11 @@
 streamlit run streamlit/streamlit_main.py
 ```
 
+## Online version!
+### The project is also online at: *https://genaifinalprojectdemo.streamlit.app/*
+### Note that the online project is not connected with MS-SQL/MongoDB, so it is limited
+
+
 <br></br>
 ## Table of Contents
 
